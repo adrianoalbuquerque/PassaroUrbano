@@ -1,4 +1,4 @@
-# App2
+# Pássaro Urbano
 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
